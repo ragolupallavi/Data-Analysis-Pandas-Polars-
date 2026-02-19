@@ -1,10 +1,10 @@
-📌 Project Title
+📌 **Project Title**
 
-**Data-Analysis-Pandas-Polars-**
+**Data-Analysis-Pandas-Polars**
 
 End-to-end data analysis pipeline built using Pandas and Polars, including data cleaning, validation, documentation, and performance optimization.
 
-📌 Project Overview
+📌 **Project Overview**
    
     1.Data cleaning
     
@@ -16,7 +16,7 @@ End-to-end data analysis pipeline built using Pandas and Polars, including data 
     
     5.Validation 
     
-📌 Technologies Used
+📌 **Technologies Used**
    
     1.Python
     
@@ -24,7 +24,7 @@ End-to-end data analysis pipeline built using Pandas and Polars, including data 
     
     3.Polars
     
-📌 Project Workflow
+📌 **Project Workflow**
    
     1.Data Loading
     

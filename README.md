@@ -40,17 +40,18 @@ This project performs exploratory data analysis using Pandas and Polars on the i
     
     6.Pandas → Polars Conversion
 
+📌 Performance Comparison
+
+   Polars demonstrated faster execution time compared to Pandas
+   for large dataset operations.
+
+
 📌**Dataset**
 
 Insurance dataset containing features like age, bmi, charges, region, etc.
 
 
-Data-Analysis-Pandas-Polars/
-│
-├── data/
-│   └── insurance.csv
-├── Data-Analysis.ipynb
-└── README.md
+![Uploading image.png…]()
 
     
 
